@@ -5,5 +5,4 @@ def increment(x):
 
 
 def test_answer():
-    assert increment(3)==5
-    
+    assert increment(3)== 4
